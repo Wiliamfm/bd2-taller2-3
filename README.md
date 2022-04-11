@@ -4,5 +4,4 @@
 - Helman Fernandez
 - William Fonseca
 ## Video link:
-- 
--
+- https://youtu.be/ZjQT4RAws9Y
